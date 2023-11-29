@@ -1,3 +1,3 @@
-# baekjoon (23.11.27)
+# baekjoon (23.11.29)
 ### Silver 1
-### 171 solved
+### 172 solved
